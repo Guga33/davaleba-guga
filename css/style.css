@@ -1,0 +1,164 @@
+/*main stuff*/
+.container{
+	max-width: 1170px;
+	width: 100%;
+	margin: 0 auto;
+}
+.relative{
+	position: relative;
+}
+.absolute{
+	position: absolute;
+}
+.flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.f-left{
+	float: left;
+}
+.f-right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+.inline-block{
+	display: inline-block;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.fixed{
+	position: fixed;
+	top:0;
+	left: 0;
+	width: 100%;	
+}
+body{
+	padding-top: 54px;
+}
+/*header*/
+.grey-first{
+	background-color: 
+}
+.nav-li{
+	margin-right: 20px;
+
+}
+.header-h{
+	font-size: 24px;
+	color: red;
+}
+.nav-li-2{
+	margin-right: 20px;
+}
+.header{
+	padding-top: 30px;
+	z-index: 99999;
+	background-color: white; 
+	padding-bottom: 20px;
+}
+.example{
+	font-size: 18px;
+}
+.fas{
+	margin-right: 7px;
+}
+.acc-p{
+	font-size: 18px;
+}
+.black-box{
+	width: 181px;
+	height: 49px;
+	background-color: black;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	align-content: center;
+}
+.box-text{
+	color: white;
+	padding-top: 15px;
+	padding-left: 65px;
+}
+.first-sec img{
+	width: 100%;
+	margin-bottom: 50px;
+}
+.first-left p{
+	font-size: 40px;
+	line-height: 54px;
+}
+.first-left{
+	vertical-align: top;
+}
+.blak-box{
+	width: 181px;
+	height: 49px;
+	background-color: black;
+}
+.blak-box p{
+	color: white;
+	margin-top:40px;
+	margin-left: 60px;
+	font-size: 14px;
+}
+.photo-sec{
+	padding-bottom: 70px;
+}
+.box-art{
+	width: 195px;
+	height: 308px;
+	background-color: #FFCC66;
+}
+.box-art-red{
+	width: 195px;
+	height: 308px;
+	background-color: #CC6666; 
+}
+.chanta{
+	padding-top: 57px;
+	padding-left: 85px;
+}
+.art-sec{
+	padding-bottom: 140px;
+}
+.gug.h2{
+	font-size: 25px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	align-content: center;
+}
+.lefty-p{
+	font-size: 40px;
+	line-height: 54px;
+}
+.lil-pp{
+	padding-left: 30px;
+	color: white;
+}
+.ill-section{
+	padding-bottom: 100px;
+}
+.green-bg{
+	background-color: #FFFFCC;
+	padding-top: 30px;
+}
+/*.HHH{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%;-50%);
+}*/
+.flexx{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+.HHH{
+	padding-bottom: 30px;
+	font-size: 28px;
+}
